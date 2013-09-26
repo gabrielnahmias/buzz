@@ -1,4 +1,4 @@
-/*
+/*!
  * Buzz, a Javascript HTML5 Audio library
  * Licensed under the MIT license.
  * http://buzz.jaysalvat.com/
