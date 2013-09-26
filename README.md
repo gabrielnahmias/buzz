@@ -2,6 +2,12 @@
 
 Buzz is a small but powerful Javascript library that allows you to easily take advantage of the new HTML5 audio element. It tries to degrade properly on non-modern browsers.
 
+<div align="center">
+    <h2><a href="http://buzz.jaysalvat.com/">Official Website</a> | <a href="http://buzz.jaysalvat.com/demo/">Demo</a> | <a href="http://buzz.jaysalvat.com/documentation/">Documentation</a></h2>
+</div>
+
+###**Example Usage:**
+
 ```js
 (function() {
 
@@ -19,15 +25,6 @@ Buzz is a small but powerful Javascript library that allows you to easily take a
                   
 })();
 ```
-
-#### Official website
-http://buzz.jaysalvat.com/
-
-#### Real life demo
-http://buzz.jaysalvat.com/demo/
-
-#### Documentation
-http://buzz.jaysalvat.com/documentation/
 
 ## Contributing
 
